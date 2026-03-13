@@ -16,3 +16,16 @@ This project analyzes Airbnb listing data using Power BI to identify trends in p
 The dashboard helps understand listing popularity, review engagement patterns, and pricing variations across property types.
 
 ## Dashboard Preview
+## Dashboard Preview
+
+### Overview
+![Overview](dashboard1.png)
+
+### Overall Ratings
+![Overall Ratings](dashboard2.png)
+
+### Detailed Reviews
+![Detailed Ratings](dashboard3.png)
+
+### Reviews
+![Reviews](dashboard4.png)
