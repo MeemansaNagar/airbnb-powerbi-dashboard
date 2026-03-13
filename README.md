@@ -19,7 +19,7 @@ The dashboard helps understand listing popularity, review engagement patterns, a
 ## Dashboard Preview
 
 ### Overview
-![Overview](dashboard1.png)
+![Overview](Screenshot 2026-03-13 125420.png)
 
 ### Overall Ratings
 ![Overall Ratings](dashboard2.png)
