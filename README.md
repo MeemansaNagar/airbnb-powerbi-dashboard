@@ -27,3 +27,6 @@ The dashboard helps understand listing popularity, review engagement patterns, a
 
 ### Reviews
 ![Reviews](dashboard4.png)
+
+
+Note: The dataset and Power BI (.pbix) file are not included due to file size limitations. Screenshots and project description are provided to demonstrate the dashboard analysis and insights.
